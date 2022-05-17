@@ -1,5 +1,5 @@
 - 👋 Hola soy @orianalnc
-- 👀 Me interesa el Frontend
+- 👀 Me encanta el Frontend
 - 🌱 Actualmente estoy aprendiendo el Stack de Javascript con NodeJS, Express, MongoDB, Angular
 - 💞️ Estoy buscando colaborar en nuevos proyectos.
 - 📫 [Visita mi perfil de Linkedin](https://www.linkedin.com/in/orianalnc/)
